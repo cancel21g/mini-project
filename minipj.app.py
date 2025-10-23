@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # 제목
-st.title("📊 사업자 현황 분석 대시보드")
+st.title("📊 지역별 인기업종 현황 분석")
 st.markdown("### 2025년 04월 100대 생활업종")
 
 # 엑셀 파일 경로
